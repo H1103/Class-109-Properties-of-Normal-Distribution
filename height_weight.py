@@ -1,4 +1,9 @@
 # normal distribution is something that helps us extracting the pattern in the dataset
+# normal distribution can be seen as a probability distribution where mean=median=mode in a normal distribution and corresponds to the peak value written
+# normal distribution is symmetric around the peak value. 68% of all data lies within 1 standrd deviation of the mean
+# 95% of the data lies within 2 standard deviation of the mean
+# 99% of the data lies within 3 standard deviation of the mean
+
   
 import pandas as pd
 import statistics
